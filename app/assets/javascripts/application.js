@@ -13,5 +13,19 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+//= require jquery.validate
+//= require bootstrap
+//= require jquery.appear
+//= require jquery.cookie
+//= require jquery.easing
+//= require jquery.gmap
+//= require jquery.imagesloaded
+// require jquery
+//= require jquery.knob
+//= require jquery.mousewheel
+//= require jquery.stellar
+//= require modernizr
+//= require respond
+
 //= require custom
 //= require_tree .

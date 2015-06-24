@@ -54,7 +54,7 @@ Version: 		2.9.0 - Wed Mar 19 2014 16:59:18
 			this.featuredBoxes();
 
 			// Tooltips
-			$("a[rel=tooltip]").tooltip();
+			// $("a[rel=tooltip]").tooltip();
 
 			// Owl Carousel
 			this.owlCarousel();
@@ -94,7 +94,7 @@ Version: 		2.9.0 - Wed Mar 19 2014 16:59:18
 				Core.featuredBoxes();
 
 				// Sticky Menu
-				Core.checkStickyMenu();
+				// Core.checkStickyMenu();
 
 				// Revolution Slider Fix
 				Core.fixRevolutionSlider();
